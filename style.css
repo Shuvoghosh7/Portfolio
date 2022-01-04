@@ -1,0 +1,70 @@
+section{
+    display: block;
+    /* background-color: black; */
+    /* padding: 10px; */
+    margin-bottom: 5px;
+    margin-top: 15px;  
+}
+.topnav{
+    text-decoration: none;
+    float: right;
+    padding: 15px;
+    position: absolute;
+    top: 12px;
+    right: 16px;
+    
+}
+.topnav a{
+    text-decoration: none;
+    
+    color: brown;
+    font-weight: 900;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: aliceblue;
+    border-radius: 5px solid red;
+    background-image: linear-gradient(black,blue);
+}
+#portfolio_button{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: aliceblue;
+    border-radius: 5px solid red;
+    background-image: linear-gradient(black,blue);
+    position: absolute;
+    top: 12px;
+    left: 16px;
+    margin: 10px;
+    
+}
+.introduct_me img{
+    width: 100%;
+    /* position: fixed; */
+}
+.header{
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    
+}
+span{
+    color: maroon;
+}
+.h_text{
+    color: white;
+}
+.about_me{
+    display: flex;
+
+}
+
+.about_me_style{
+    
+    width: 50%;
+    padding: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 40px grey;
+   
+}
