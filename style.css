@@ -19,6 +19,7 @@ section{
     top: 12px;
     right: 16px;
     
+    
 }
 .topnav a{
     text-decoration: none;
@@ -52,6 +53,9 @@ section{
     font-weight: 700;
     border-radius: 5px;
 }
+.introduct_me{
+    position: relative;
+}
 .introduct_me img{
     width: 100%;
     /* position: fixed; */
@@ -83,4 +87,20 @@ span{
     background-color: lightblue;
     border-radius: 10px;
    
+}
+.skills{
+    display: flex;
+    
+}
+.my_skills{
+    width:100%;
+    padding: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 40px grey;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+.my_skills img{
+    width: 100%;
 }
