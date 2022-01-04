@@ -23,7 +23,6 @@ section{
 }
 .topnav a{
     text-decoration: none;
-    
     color: brown;
     font-weight: 900;
     border-radius: 5px;
@@ -62,7 +61,7 @@ section{
 }
 .header{
     position: absolute;
-    top: 50%;
+    top: 30%;
     right: 10%;
     
 }
